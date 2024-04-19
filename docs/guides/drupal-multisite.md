@@ -36,7 +36,7 @@ Create proxies for each multisite in the appserver array in your `.lando.yml` fi
 proxy:
   appserver:
     - site1.lndo.site
-    - site2.lndo.s
+    - site2.lndo.site
 services:
   site1:
     type: mysql:5.7
